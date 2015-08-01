@@ -10,5 +10,5 @@ Full web stack for DMC 2015 class @ Columbia University GSAPP
 
 # editing
 
-app.py contains backend code for the web server as well as all data manipulation
-index.html file in templates folder contains dynamic leaflet and D3 code for visualization
+- app.py contains backend code for the web server as well as all data manipulation
+- index.html file in templates folder contains dynamic leaflet and D3 code for visualization
