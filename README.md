@@ -6,7 +6,7 @@ Full web stack for DMC 2015 class @ Columbia University GSAPP
 1.  install python
 2.  install flask library for python
 3.  run app.py in main folder
-4.  open localhost:5000 in browser
+4.  log on to http://localhost:5000 in browser
 
 # editing
 
